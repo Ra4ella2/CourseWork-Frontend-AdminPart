@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_BASE = "https://localhost:7295";
+const API_BASE = "https://mymarket.somee.com";
 
 type Product = {
   id: number;
